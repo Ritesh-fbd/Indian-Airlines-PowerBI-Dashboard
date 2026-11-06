@@ -6,9 +6,9 @@ The report includes airline selection and route/destination filters, KPI cards, 
 
 ## Dashboard Preview
 
-![Indian Airlines Performance Dashboard](https://raw.githubusercontent.com/Ritesh-fbd/Indian-Airlines-PowerBI-Dashboard/main/Airline%20Analysis/image/dashboard.png)
+![Indian Airlines Performance Dashboard](https://raw.githubusercontent.com/Ritesh-fbd/Indian-Airlines-PowerBI-Dashboard/main/Airline%20Analysis/image/Screenshot%202026-11-06%20211114.png)
 
-> If the preview does not render, open the [dashboard image folder](https://github.com/Ritesh-fbd/Indian-Airlines-PowerBI-Dashboard/tree/main/Airline%20Analysis/image).
+[View all dashboard screenshots](https://github.com/Ritesh-fbd/Indian-Airlines-PowerBI-Dashboard/tree/main/Airline%20Analysis/image)
 
 ## Project Highlights
 
